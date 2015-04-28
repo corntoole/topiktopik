@@ -3,4 +3,4 @@
 require 'sinatra'
 require 'sinatra/activerecord'
 require './environments'
-require './models/'
+require './models/TwitterTopic'
